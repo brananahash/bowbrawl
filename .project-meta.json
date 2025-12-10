@@ -1,0 +1,25 @@
+{
+  "assets": {
+    "code#A101A4BA89844FCD851E5DAECFB60FA5": "server.ts",
+    "code#AB982564E107492AB0F95099C77CD765": "client.ts",
+    "folder#E71FC238D060472288EF79CDB4DC8FCF": "client",
+    "code#B94B863627E04F95BFEE707AD6E05FF7": "client/bow.ts",
+    "code#158C9C6CF4CC47D2AD509D8D6C503DE2": "traits.ts",
+    "code#B78DE6BC9B734898AE741076F56EB382": "client/player.ts",
+    "code#D326C2F66C2F4253A47C2EB463F2D0B1": "utils.ts",
+    "code#44262FD981CD42D386297355A0FF362A": "client/arrow.ts",
+    "code#9BFC7766013B407D9D5AD0CB318B3F7B": "client/effects.ts",
+    "code#53F1A967C2E74E1B84756AEBA1A87FB3": "commands.ts",
+    "code#7938B48B75034CB78A52BB9797567286": "client/ui.ts",
+    "code#1165CC5E80E84E5E943D7B813587C5DE": "client/camera.ts",
+    "code#BD0775CA1769438BBD4DA3B44F4D23DB": "client/debris.ts",
+    "code#24658144A11C4A70A52E5956ADD8E8E3": "client/particles.ts",
+    "folder#66C29ACF458D45BC9462ECF154CF452E": "server",
+    "code#A28EB5794F9F413A9ACA86384C022B9E": "server/pickups.ts",
+    "code#75545FD56B48443EB4798B3171A5B2BD": "client/pickup.ts",
+    "code#7EAACF7CD6E8436DB13E93BA802D035C": "server/respawn.ts",
+    "code#2F3C52F34833439D94BD6CC7199BC2EE": "server/bots.ts",
+    "code#D94A1369A4F840CC9774514AAF8024C7": "client/nameplates.ts",
+    "code#EDCF8E2DC8AD4A5B923D8994C877691A": "client/progression.ts"
+  }
+}
